@@ -1,0 +1,20 @@
+
+Kit de desenvolvimento JAVA versão 7 (jdk-7)
+http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html?ssSourceSiteId=otnpt
+
+
+Eclipse IDE for Java Developers
+https://www.eclipse.org/downloads/
+
+
+Bibliotecas do Hibernate (versão estável)
+http://hibernate.org/orm/downloads/
+
+
+Servidor MySQL 5
+http://dev.mysql.com/downloads/mysql/
+
+
+
+MySQL Workbench (ZIP Archive)
+http://www.mysql.com/products/workbench/
